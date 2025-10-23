@@ -8,4 +8,4 @@ nomes_originais = [nome1, nome2, nome3, nome4, nome5]
 
 nomes_inversa = sorted(nomes_originais, reverse=True)
 
-print("Lista em ordem inversa (Z-A):", nomes_inversa)
+print("Lista em ordem inversa: ", nomes_inversa)

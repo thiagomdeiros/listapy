@@ -7,4 +7,4 @@ print("Nome buscado:", nome_buscado)
 
 resultado = nome_buscado in nomes
 
-print("O nome está na lista? (True/False):", resultado)
+print("O nome está na lista? ", resultado)
